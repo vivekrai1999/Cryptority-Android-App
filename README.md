@@ -1,16 +1,14 @@
-# cryptority
+# Cryptority
 
-A new Flutter project.
+An Android App for various Encryption techniques, Key Exchange & Hash Functions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+###Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://i.imgur.com/aH0LVpI.jpg" width=30%>  <img src="https://i.imgur.com/RIxk7Sn.jpg" width=30%> <img src="https://i.imgur.com/fk02T3h.jpg" width=30%>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img src="https://i.imgur.com/n0v8PsR.jpg" width=30%> <img src="https://i.imgur.com/EyOKxmt.jpg" width=30%> <img src="https://i.imgur.com/ovQYUXn.jpg" width=30%>
+
+
